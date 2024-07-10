@@ -2,7 +2,7 @@
 - 🔭 I’m currently on leave of absence.
 - 🌱 I’m currently learning how to make a game with Unity5 and C#, starting with a visual novel.
 - 👯 I’m looking to collaborate on unity game programming.
-- 🤔 I’m looking for help with game audio / VSTI plugin programming (I really wana try it!)
+- 🤔 I’m looking for help with game audio / VSTI plugin programming (I really wanna try it!)
 - 💬⛔ Don't ask me I'm an idiot sandwich
 - 📫 How to reach me: (Email)legacytachyon@gmail.com
 - 😄 Pronouns: he/him
