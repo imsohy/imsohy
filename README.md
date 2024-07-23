@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on unity game programming.
 - 🤔 I’m looking for help with game audio / VSTI plugin programming (I really wanna try it!)
 - 💬⛔ Don't ask me I'm an idiot sandwich
-- 📫 How to reach me: (Email)(legacytachyon@gmail.com, "Mail Me!")
+- 📫 How to reach me: (Email)legacytachyon@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I do hiphop. I'm in three university clubs.
 
