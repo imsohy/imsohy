@@ -2,7 +2,7 @@
 - 🏫 KwangWoon University, School of Computer and Information Engineering
 - 📫 How to reach me: (Email)legacytachyon@gmail.com
 - 😄 Pronouns: he/him
-- 👯 I’m doing research about *3D Face reconstruction using Action Units and conditional GAN*
+- 👯 I’m doing research about *3D Face reconstruction using Action Units and Transformer*
 - 🌱 I’m learning how to make a game with Unity5 and C#
 - 🤔 I’m looking for help with game audio / VSTI plugin programming (I really wanna try it!)
 - ⚡ Fun fact: I do hiphop. I'm in three university clubs.
